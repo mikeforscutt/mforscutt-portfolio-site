@@ -1,0 +1,6 @@
+node_modules
+src/assets/double.png
+src/assets/laptop.jpg
+src/assets/single.png
+src/assets/triple.png
+yarn.lock
